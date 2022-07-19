@@ -4,7 +4,7 @@ Continuing in our exploration handling interactions and events in React, we'll n
 
 Release 0
 -------------
-* Scaffold the app using `create-react-app`.
+* Scaffold the app using `npm create vite` or `npx create vite`.
 
 Release 1
 -------------
